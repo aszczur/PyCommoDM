@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use software from PyCommoDM in academic research, please cite the repository and, when applicable, the corresponding method-specific publication."
+title: "PyCommoDM"
+authors:
+  - family-names: Szczur
+    given-names: Adam
+license: BSD-3-Clause
+repository-code: https://github.com/aszczur/PyCommoDM
+
+references:
+  - type: article
+    authors:
+      - family-names: Bazan
+        given-names: Jan G.
+      - family-names: Szczur
+        given-names: Adam
+      - family-names: Skowron
+        given-names: Andrzej
+      - family-names: Rzepko
+        given-names: Marian
+      - family-names: Król
+        given-names: Paweł
+      - family-names: Bajorek
+        given-names: Wojciech
+      - family-names: Czarny
+        given-names: Wojciech
+    title: "A classifier based on a decision tree with temporal cuts"
+    journal: "Fundamenta Informaticae"
+    year: 2019
+    volume: 165
+    issue: 3-4
+    start: 263
+    end: 281
+
+  - type: article
+    authors:
+      - family-names: Szczur
+        given-names: Adam
+      - family-names: Bazan
+        given-names: Jan G.
+      - family-names: Bentkowska
+        given-names: Urszula
+      - family-names: Kruczek
+        given-names: Piotr
+      - family-names: Bazan-Socha
+        given-names: Stanisława
+    title: "Identifying and Predicting Changes in Behavioral Patterns for Temporal Data in Treatment of Neonatal Respiratory Failure"
+    journal: "Applied Sciences"
+    year: 2025
+    volume: 15
+    issue: 22
+    article-number: 12133
